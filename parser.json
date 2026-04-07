@@ -1,7 +1,7 @@
 {
-  "lang": "fsharp",
-  "url": "https://github.com/ionide/tree-sitter-fsharp",
+  "location": "fsharp",
   "semver": false,
-  "parser_version": "1c2d9351d1f731c08cfdc4ed41e63126ae56e462",
-  "location": "fsharp"
+  "url": "https://github.com/ionide/tree-sitter-fsharp",
+  "lang": "fsharp",
+  "parser_version": "1c2d9351d1f731c08cfdc4ed41e63126ae56e462"
 }
